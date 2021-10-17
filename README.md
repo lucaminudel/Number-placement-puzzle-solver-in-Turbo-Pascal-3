@@ -1,5 +1,5 @@
 # Number-placement puzzle solver in Turbo Pascal 3
-An old number placement puzzle solver in Turbo Pascal 3.0.
+An old number placement puzzle solver in Borland Turbo Pascal 3.01A.
 
 This is a number placement puzzle solver.
 To solve the puzzle, the initial number 1 can be placed everywhere on a 5 x 5 grid.
